@@ -1,5 +1,15 @@
 # BankAppUi
 
+<img width="1671" alt="Screenshot 2024-01-19 at 5 07 37 PM" src="https://github.com/Rakesh4ever/spring-security-section7/assets/48691043/7eaada75-2811-4df4-a89e-518e64bd5903">
+
+If you navigate to Loans section you will find all outstanding amount of a customer.
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
