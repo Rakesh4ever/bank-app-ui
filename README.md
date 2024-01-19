@@ -2,10 +2,11 @@
 
 <img width="1671" alt="Screenshot 2024-01-19 at 5 07 37 PM" src="https://github.com/Rakesh4ever/spring-security-section7/assets/48691043/7eaada75-2811-4df4-a89e-518e64bd5903">
 
-If you navigate to Loans section you will find all outstanding amount of a customer.
+
+### If you navigate to Loans section you will find all outstanding amount of a customer.
 
 
-
+<img width="1578" alt="Screenshot 2024-01-19 at 4 56 51 PM" src="https://github.com/Rakesh4ever/bank-app-ui/assets/48691043/d56999ec-eb60-4901-b9b3-07ca64c6daa1">
 
 
 
